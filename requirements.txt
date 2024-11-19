@@ -1,0 +1,6 @@
+streamlit  # Para crear la interfaz de usuario
+transformers  # Para el modelo ViTFeatureExtractor y ViTForImageClassification
+huggingface_hub  # Para InferenceClient (usado en la generación de imágenes)
+Pillow  # Para manipular imágenes
+torch  # Para el procesamiento en PyTorch
+python-dotenv
